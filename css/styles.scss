@@ -1,0 +1,22 @@
+body {
+
+  background: grey;
+
+  .header-area {
+    padding: 50px 50px 20px 50px;
+    background: #0cb3f8 url('../images/background_white.png') repeat-x bottom;
+  }
+
+  .form-area {
+    padding: 20px;
+    .form-inline {
+      input {
+        background-color: rgba(255,255,255,.5);
+      }
+      .btn {
+        margin-left: -20px;
+      }
+    }
+  }
+
+}
